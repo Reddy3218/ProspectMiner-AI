@@ -1,6 +1,51 @@
 # 🚀 ProspectMiner AI — Domain-Specific Lead Mining Engine
 
-A full-stack MERN application that scrapes, enriches, and scores business leads using stealth Puppeteer and AI (Anthropic Claude).
+ProspectMiner-AI is an AI-powered lead generation and prospect intelligence platform that automatically scrapes potential business leads from the internet and ranks them based on their estimated revenue potential.
+
+The system leverages web scraping, data enrichment, and AI-based scoring models to identify high-value prospects and help sales teams focus on leads that are more likely to convert.
+
+By automating the lead discovery and prioritization process, ProspectMiner-AI significantly reduces manual research time and improves the efficiency of sales and marketing teams.
+
+## Problem statement
+
+Modern sales teams spend a significant amount of time manually searching for potential customers across websites, directories, and social platforms. This process has several limitations:
+
+* Manual prospect discovery is time-consuming
+
+* Leads are often unqualified or low value
+
+* Sales teams lack data-driven prioritization
+
+* Valuable prospects may be missed due to limited research bandwidth
+
+There is a need for an intelligent system that can automatically discover, analyze, and rank leads based on their potential business value.
+
+
+## Solution
+
+ProspectMiner-AI addresses this problem by combining automated web scraping with AI-driven lead scoring.
+
+The system performs the following workflow:
+
+### Data Collection
+
+Scrapes business information from online sources such as company directories, websites, and public data platforms.
+
+### Data Processing & Enrichment
+
+Extracts key attributes such as company name, industry, location, size, and digital presence.
+
+### AI-Based Revenue Potential Scoring
+
+Applies AI models to evaluate the probability that a lead can generate high revenue.
+
+### Lead Ranking
+
+Prospects are ranked according to their estimated revenue potential.
+
+### Actionable Insights
+
+Sales teams receive a prioritized list of leads with supporting data.
 
 ---
 
